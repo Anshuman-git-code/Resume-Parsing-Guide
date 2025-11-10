@@ -388,9 +388,9 @@ resume-parser-skill-matcher/
 ## 📞 Emergency Contacts
 
 - Team Lead (Anshuman): [Add contact]
-- Member 2: [Add contact]
-- Member 3: [Add contact]
-- Member 4: [Add contact]
+- Member 2: (Shivam)[Add contact]
+- Member 3: (Siddhant)[Add contact]
+- Member 4: (Pavan)[Add contact]
 
 ---
 
