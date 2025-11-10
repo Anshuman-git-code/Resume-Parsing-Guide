@@ -1,7 +1,6 @@
 # Resume Parser & Skill Matcher - Team Collaboration Guide
 
 **Project Duration:** Nov 10 - Nov 17, 2025 (7 days)  
-**Team Size:** 4 members (1 Team Lead + 3 Developers)  
 **Daily Standup:** 7 PM Google Meet
 
 ---
